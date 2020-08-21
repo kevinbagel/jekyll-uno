@@ -11,6 +11,10 @@ pre.highlight,
   padding: 10px;
 }
 
+div.language-plaintext pre.highlight {
+  color: #a6e22e;
+}
+
 pre.highlight code,
 .highlight pre code {
   white-space: pre-wrap;
